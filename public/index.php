@@ -15,7 +15,7 @@
 
 */
 
-	function cookABorscht(
+	function sushi(
 		int $japanese_rice, 
 		int $trout, 
 		int $cucumber, 
@@ -59,4 +59,4 @@
 			Next, take the sharpest knife and cut into 6-7 pieces. The knife must be washed under cold water each time, otherwise the rice will stick and interfere with cutting.
 		*/
 	}
-	cookABorscht(2,1,1,2,2.5,2,1,1,1,1);
+	sushi(2,1,1,2,2.5,2,1,1,1,1);
